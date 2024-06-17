@@ -1,3 +1,5 @@
+#This script will compress all of my text files in a directory.
+
 $date = Get-Date -Format "yyyy-MM-dd"
 
 $destination =C:\\Users\jacob\backups\"+$date+"-backup.zip"
